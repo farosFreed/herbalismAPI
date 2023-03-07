@@ -1,0 +1,201 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Marshmallow",
+      "sciName": "Althaea officinalis",
+      "desc": "The marshmallow plant is a perennial herb native to Europe, western Asia, and northern Africa. It has been used medicinally for centuries to treat a variety of ailments, such as sore throat, coughs, and digestive issues. Its leaves and roots contain polysaccharides, flavonoids, and other active compounds that can soothe irritated mucous membranes and have anti-inflammatory and antioxidant effects.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening"]
+    },
+    {
+      "id": 2,
+      "name": "Dwarf Mallow",
+      "sciName": "Malva neglecta",
+      "desc": "Malva neglecta, also known as Dwarf Mallow, is a common weed found throughout Europe, Asia and North America. It has been used medicinally for centuries for its healing properties. It has anti-inflammatory, antioxidant and antimicrobial effects, and has been used to treat ailments such as colds, sore throats, constipation, and skin conditions, such as eczema. The leaves and flowers are believed to be the most active parts, which can be boiled and applied topically or consumed as an herbal tea. It is also believed to contain vitamins and minerals that can help improve overall health.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening"]
+    },
+    {
+      "id": 3,
+      "name": "Oats",
+      "sciName": "Avena sativa",
+      "desc": "Avena sativa is a common grain that has been used in traditional medicine for centuries. It is known for its calming and sedative effects, which can be beneficial for those suffering from anxiety and insomnia. It can also help to reduce inflammation, boost immunity, and improve digestion, as well as reducing cholesterol levels. Studies have also suggested that it has anti-cancer properties, and can help to improve cognitive function. In addition, it is a rich source of vitamins, minerals, and antioxidants, which can help to protect the body from damage caused by free radicals. As such, Avena sativa has been used to treat a wide range of illnesses and conditions, and is a popular ingredient in many herbal remedies.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening"]
+    },
+    {
+      "id": 4,
+      "name": "Licorice",
+      "sciName": "Glycyrrhiza glabra",
+      "desc": "Glycyrrhiza glabra, commonly known as licorice, has long been used for medicinal purposes in various parts of the world. It is known to have anti-inflammatory, anti-bacterial, and anti-viral properties, making it effective in treating many different ailments. It has been used traditionally to treat digestive issues such as stomach ulcers and indigestion, as well as respiratory issues such as bronchitis and asthma. It is also known to have anti-allergic properties, making it a useful remedy for allergies and hay fever. Additionally, it is known to be beneficial for skin conditions such as eczema and psoriasis, and has also been used to treat conditions such as depression, anxiety, and insomnia.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening", "warming"]
+    },
+    {
+      "id": 5,
+      "name": "Comfrey",
+      "sciName": "Symphytum officinale",
+      "desc": "Symphytum officinale, also known as comfrey, is a medicinal herb that has been used for centuries in traditional medicine. It has a number of proven medicinal uses, such as for treating skin conditions, wounds, and broken bones. Comfrey contains allantoin, a compound that is known to have healing and regenerative properties. It can be used both topically and internally to reduce inflammation, reduce pain, and promote healing. It has also been used to treat digestive issues, respiratory issues, and to reduce fever. Comfrey has been used in traditional medicine for a variety of ailments, and research has shown that it is a safe and effective remedy for many of these conditions.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening", "cooling"]
+    },
+    {
+      "id": 6,
+      "name": "Rose",
+      "sciName": "Rosa rubiginosa",
+      "desc": "Rosa rubiginosa, also known as sweetbriar or eglantine, is a species of rose native to Europe, North Africa, and Western Asia. It has been used medicinally for centuries to treat a variety of ailments. The flower petals have traditionally been used as a diuretic and to alleviate inflammation, while the hips are rich in vitamin C and have been used to treat colds and flus. The leaves are believed to have antiseptic properties and have been used to treat skin conditions such as eczema. The plant is also said to help stimulate the digestive system and has been used to treat ulcers. Finally, the oil extracted from Rosa rubiginosa has been used to reduce symptoms of arthritis and other inflammatory conditions. It is clear that this species of rose has many medicinal uses that are still being explored today.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["drying", "cooling"]
+    },
+    {
+      "id": 7,
+      "name": "Dandelion",
+      "sciName": "Taraxacum officinale",
+      "desc": "The dandelion is an incredibly versatile plant, commonly found in gardens and fields across the world. Not only is it a beautiful flower, but it also has many medicinal uses. It's proven to act as a diuretic, helping to flush out toxins from the body. It can also help to support healthy digestion and liver function. The dandelion has also been used to help reduce inflammation and support a healthy immune system. Additionally, dandelion leaves are high in vitamins A, C, and K, adding to its nutritive properties.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["cooling"]
+    },
+    {
+      "id": 8,
+      "name": "Valerian",
+      "sciName": "Valeriana officinalis",
+      "desc": "Valerian is a flowering plant native to Europe and North America. It has been used medicinally for centuries for its calming effects, and is thought to be an effective natural remedy for anxiety, insomnia, and tension headaches. Valerian's active ingredients are believed to have a sedative effect on the nervous system by increasing the amount of GABA, an inhibitory neurotransmitter, in the brain. Studies have also shown that Valerian can reduce symptoms of menopause, reduce stress levels and improve sleep quality.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["warming"]
+    },
+    {
+      "id": 9,
+      "name": "Chamomile",
+      "sciName": "Matricaria recutita",
+      "desc": "Chamomile is an herbaceous flowering plant in the daisy family. It has a long history of medicinal use, dating back to ancient Egyptian times. Its proven medicinal uses include treating gastrointestinal disorders, reducing inflammation, easing menstrual cramps, promoting sleep, and treating skin conditions such as eczema and psoriasis. It is also known for its calming and anti-anxiety effects. Chamomile can be consumed in tea form or taken in pill form as a dietary supplement.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["cooling"]
+    },
+    {
+      "id": 10,
+      "name": "Ginger",
+      "sciName": "Zingiber officinale",
+      "desc": "The ginger plant Zingiber officinale is a tropical perennial that is native to Asia and widely cultivated in many parts of the world. Ginger is a flowering plant with greenish-yellow flowers and has been used medicinally for hundreds of years. It has been used to treat digestive issues, nausea, colds and flu, as well as reduce inflammation and relieve arthritis pain. The active ingredient in ginger is gingerol, which gives it its unique aroma and flavor. Ginger has also been known to help reduce cholesterol, improve cardiovascular health, and act as an anti-inflammatory agent.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["warming"]
+    },
+    {
+      "id": 11,
+      "name": "Cayenne",
+      "sciName": "Capsicum annuum",
+      "desc": "Cayenne pepper is a commonly used spice in many cuisines around the world. It has been used in traditional medicine for centuries due to its many medicinal properties. Cayenne pepper has been found to have anti-inflammatory, antioxidant, analgesic and even antimicrobial properties. It has also been used to treat gastrointestinal disorders, such as indigestion and nausea. Studies have found that cayenne pepper may even be beneficial for cardiovascular health by improving circulation and reducing cholesterol levels.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["warming", "drying"]
+    },
+    {
+      "id": 12,
+      "name": "Ginseng",
+      "sciName": "Panax quinquefolius",
+      "desc": "Panax quinquefolius, more commonly known as American ginseng, is a species of the Panax genus that is native to the eastern United States and Canada. It is a perennial herbaceous plant that has been used in traditional Chinese medicine for centuries. American ginseng is known for its adaptogenic properties, which means it helps to support the body’s natural ability to adapt to stress and its effects. It has been proven in several studies to have positive effects on physical and mental performance during stressful situations. Additionally, it has been used to help with diabetes, immune system health, and fatigue. American ginseng may also reduce inflammation and have anti-tumor effects.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["moistening", "nourishing"]
+    },
+    {
+      "id": 13,
+      "name": "Echinacea",
+      "sciName": "Echinacea purpurea",
+      "desc": "Echinacea purpurea is a species of flowering plant that is native to North America and widely used in herbal medicine. It is known to have many medicinal properties, including anti-inflammatory, antioxidant, antiviral, and immunostimulant effects. Studies have shown that it can help reduce the severity and duration of the common cold and flu, as well as aid in the treatment of a variety of other ailments such as hay fever, urinary tract infections, skin conditions, and even canker sores. It is also used to boost the immune system and help fight off infection and disease. Furthermore, Echinacea purpurea has been found to be beneficial for reducing inflammation caused by allergies and also has been used to treat chronic fatigue syndrome.",
+      "indications": ["", ""],
+      "effects": ["moistening", "nourishing"]
+    },
+    {
+      "id": 14,
+      "name": "Nettle",
+      "sciName": "Urtica dioica",
+      "desc": "Urtica dioica, commonly known as stinging nettle, has been used for centuries as a medicinal herb. It is known to have anti-inflammatory, diuretic, and astringent properties. It has been used to treat a variety of ailments, including arthritis, eczema, gout, and urinary tract infections. It is also believed to be beneficial for treating allergies and hay fever. In addition, it has been used to treat anemia, as it is high in iron and other minerals. Stinging nettle can be taken in the form of tea, capsules, or tinctures.",
+      "image": "",
+      "indications": [
+        "arthritis",
+        "inflammation",
+        "eczema",
+        "gout",
+        "urinary tract infections"
+      ],
+      "effects": ["drying", "nourishing"]
+    },
+    {
+      "id": 15,
+      "name": "Skullcap",
+      "sciName": "Scutellaria lateriflora",
+      "desc": "Skullcap is a flowering plant native to North America and parts of Europe. It has been used medicinally for centuries, traditionally as a sedative, antispasmodic, and anti-inflammatory agent. It is also thought to have antioxidant, antimicrobial, and liver protective properties. Recent studies suggest it can be effective in treating anxiety, insomnia, and nerve pain",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["cooling", "relaxing"]
+    },
+    {
+      "id": 16,
+      "name": "Cinnamon",
+      "sciName": "Cinnamomum zeylanicum",
+      "desc": "Cinnamon is a common spice used in many cuisines around the world. It has been used medicinally for centuries and has been scientifically proven to have many health benefits. It can be used to reduce inflammation, lower blood sugar levels, improve brain function, and even improve digestive health. Cinnamon also has powerful antioxidant and antimicrobial properties that can help protect against certain diseases.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["warming"]
+    },
+    {
+      "id": 17,
+      "name": "Lemon Balm",
+      "sciName": "Melissa officinalis",
+      "desc": "Lemon Balm (Melissa officinalis), is a herb in the mint family, native to Europe, North Africa and West Asia. It has a mild lemon scent and is used as an herbal remedy for a variety of ailments. It has been used medicinally for centuries to reduce stress and anxiety, improve sleep, and reduce inflammation. Recent research has also shown that Lemon Balm may be beneficial for digestive issues, headaches, improving cognitive function and even fighting off colds and flu.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["", ""]
+    },
+    {
+      "id": 18,
+      "name": "Lemon",
+      "sciName": "Citrus limon",
+      "desc": "Lemon is an incredibly versatile fruit with a wide array of medicinal uses. Lemons are widely known for their ability to boost the immune system, clear skin, aid in digestion, and reduce inflammation. Lemons also have antiseptic properties, which can help treat wounds and prevent infection. Additionally, lemons are packed with vitamin C and other antioxidants that can help reduce stress levels and fight off free radicals.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["", ""]
+    },
+    {
+      "id": 19,
+      "name": "Garlic",
+      "sciName": "Allium sativum",
+      "desc": "Garlic is a pungent, flavorful food that has been used in cooking for centuries. It has also been used medicinally for its health benefits. Research has proven that garlic has antibacterial properties and is an effective natural remedy for reducing high blood pressure and cholesterol levels. It may also help boost the immune system and protect against certain types of cancer.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["", ""]
+    },
+    {
+      "id": 20,
+      "name": "Yarrow",
+      "sciName": "Achillea millefolium",
+      "desc": "Yarrow (Achillea millefolium) is a perennial herb in the daisy family with feathery foliage and white, yellow, or pink flower clusters. It has been used medicinally for centuries to treat wounds, digestive problems, and even colds and fevers. Its anti-inflammatory properties make it useful for alleviating pain, reducing swelling, and promoting circulation. Yarrow also contains flavonoids which may help reduce inflammation associated with asthma and other respiratory ailments.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": ["drying"]
+    },
+    {
+      "id": 21,
+      "name": "Peppermint",
+      "sciName": "Mentha piperita",
+      "desc": "Peppermint is a hybrid mint, a cross between watermint and spearmint. It is a popular herb that has been used medicinally for thousands of years. Peppermint has been proven to have anti-inflammatory, antispasmodic and analgesic properties, making it an effective remedy for digestive and respiratory issues, headaches, and skin irritations. It can also be used as an expectorant, aiding in the relief of congestion from colds or allergies.",
+      "image": "",
+      "indications": ["", ""],
+      "effects": [""]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

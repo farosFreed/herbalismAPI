@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Herbalism API</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="/public/style.min.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Herbalism API</h1>
+      <form id="add-update-herbs" action="/herbs" method="POST">
+        <h3>Create or Update a Herb</h3>
+        <input id="herbname" type="text" name="name" placeholder="name" />
+        <!-- TODO remove and infer all w chatgpt? eh... -->
+        <!-- 2 flavors, scientific has sources and no chatgpt inference, fantasy version has inference ? -->
+        <input
+          id="herbSciName"
+          type="text"
+          name="sciName"
+          placeholder="scientific name"
+        />
+        <input
+          id="desc"
+          type="text"
+          name="description"
+          placeholder="description"
+        />
+        <input
+          id="imageLink"
+          type="text"
+          name="image"
+          placeholder="link to image"
+        />
+        <input
+          id="indications"
+          type="text"
+          name="indications"
+          placeholder="list of indications"
+        />
+        <input
+          id="effects"
+          type="text"
+          name="effects"
+          placeholder="list of effects"
+        />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+  </body>
+</html>
